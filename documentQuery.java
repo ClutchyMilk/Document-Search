@@ -1,7 +1,7 @@
 /*
    Description:          Analyzes a series of documents from a directory and 
                          processes them for use an Information Retrieval System.
-                         To achieve this, every wrod in the ocllection is "standardized"
+                         To achieve this, every word in the ocllection is "standardized"
                          by having all punctuation removed and all cases be lowercase.
 
                          Additionally, this programs also allows for the searching of
